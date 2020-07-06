@@ -1,6 +1,9 @@
 {
-  "name": "@stencil/core",
-  "version": "1.16.0-3",
+  "name": "@cosium-fork/stencil-core",
+  "version": "1.16.0-0",
+  "publishConfig": {
+    "registry": "https://nexus.cosium.dev/repository/npm-releases/"
+  },
   "license": "MIT",
   "main": "internal/stencil-core.js",
   "types": "internal/stencil-core.d.ts",
